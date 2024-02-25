@@ -2,7 +2,7 @@
 
 ## Vocoder Sequencer -- A daily life timbre exploration tool
 
-Our project is a vocoder sequencer that convolves music with any sounds. As it supports mobile platform, it can be conveniently used for insitu-exploration in daily life. It's aimed to be a portable timbre exploration tool. With microphone input, users can capture the moments in life and apply it to music and sensing the world in timbre perspective.
+This project is a vocoder sequencer that convolves music with any sounds. As it supports mobile platform, it can be conveniently used for insitu-exploration in daily life. It's aimed to be a portable timbre exploration tool. With microphone input, users can capture the moments in life and apply it to music and sensing the world in timbre perspective.
 
 
 ### Quickstart
