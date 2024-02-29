@@ -61,7 +61,7 @@ Yutian Hu - y.hu@se22.qmul.ac.uk
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Thanks to the [timbre tools hackathon](https://comma.eecs.qmul.ac.uk/timbre-tools-hackathon/) from which we shape this idea!
+Thanks to the [timbre tools hackathon](https://comma.eecs.qmul.ac.uk/timbre-tools-hackathon/) from where we shape this idea!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
