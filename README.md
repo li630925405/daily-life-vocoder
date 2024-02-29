@@ -1,6 +1,3 @@
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -24,8 +21,11 @@
 </div>
 
 
+<!-- PROJECT SHIELDS -->
+[![MIT License][license-shield]][license-url]
 
-## About the Project
+
+## About this Project
 
 Do you want to hear your memory blending with music?
 
