@@ -1,6 +1,31 @@
+<!-- PROJECT SHIELDS -->
+[![MIT License][license-shield]][license-url]
 
 
-## Daily Life Vocoder -- An in-situ timbre exploration tool!
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<!--   <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a> -->
+  <img src="images/logo.png" alt="Logo" width="80">
+
+  <h3 align="center">Daily Life Vocoder</h3>
+
+  <p align="center">
+    An in-situ timbre exploration tool!
+    <br />
+    <a href="https://www.youtube.com/shorts/r5UcnywTU4c">View Demo</a>
+    ·
+    <a href="https://github.com/li630925405/daily-life-vocoder/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/li630925405/daily-life-vocoder/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+## About the Project
 
 Do you want to hear your memory blending with music?
 
@@ -9,7 +34,7 @@ Do you want to transform your daily moment to an effect chain?
 This project is a vocoder sequencer that convolves music with any sounds. As it supports mobile platform, it can be conveniently used for in-situ exploration in daily life. It's aimed to be a portable timbre exploration tool. With microphone input, you can capture the moments in life and apply it to music, sensing the world in timbre perspective. Or you can 
 
 
-### Quickstart
+## Getting Started
 1. Download MobMuPlat on your phone.
 
     For iOS user, you can get it from AppStore: https://apps.apple.com/us/app/mobmuplat/id597679399?platform=iphone
@@ -24,3 +49,21 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 
 
 
+
+<!-- CONTACT -->
+## Contact
+
+Yazhou Li - acw629@amul.ac.uk
+
+Yutian Hu - y.hu@se22.qmul.ac.uk
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Thanks to the [timbre tools hackathon](https://comma.eecs.qmul.ac.uk/timbre-tools-hackathon/) from which we shape this idea!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/li630925405/daily-life-vocoder/blob/main/LICENSE.txt
