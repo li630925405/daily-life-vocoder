@@ -55,7 +55,8 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 
 Yazhou Li - acw629@amul.ac.uk
 
-Yutian Hu - y.hu@se22.qmul.ac.uk
+Yutian Hu - yutianhu@hotmail.com
+
 
 
 <!-- ACKNOWLEDGMENTS -->
