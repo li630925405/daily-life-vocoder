@@ -31,7 +31,7 @@ Do you want to hear your memory blending with music?
 
 Do you want to transform your daily moment to an effect chain?
 
-This project is a vocoder sequencer that convolves music with any sounds. As it supports mobile platform, it can be conveniently used for in-situ exploration in daily life. It's aimed to be a portable timbre exploration tool. With microphone input, you can capture the moments in life and apply it to music, sensing the world in timbre perspective. Or you can 
+This project is a vocoder sequencer that convolves music with any sounds. As it supports mobile platform, it can be conveniently used for in-situ exploration in daily life. It's aimed to be a portable timbre exploration tool. With microphone input, you can capture the moments in life and apply it to music, sensing the world in timbre perspective. 
 
 
 ## Getting Started
@@ -53,7 +53,7 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 <!-- CONTACT -->
 ## Contact
 
-Yazhou Li - acw629@amul.ac.uk
+Yazhou Li - acw629@qmul.ac.uk
 
 Yutian Hu - yutianhu@hotmail.com
 
