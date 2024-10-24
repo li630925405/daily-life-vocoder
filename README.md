@@ -51,15 +51,13 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 ## Technical Details
 
 ### what it is
-A vocoder is an audio effect that lets you impose the dynamics and changing spectral content of one sound (the modulator) onto another (the carrier). The modulator is usually the human voice, speaking or singing, while the carrier is usually a bright synthesizer.
-
-reference: [https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A vocoder is an audio,is usually a bright synthesizer](https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A%20vocoder%20is%20an%20audio,is%20usually%20a%20bright%20synthesizer).
+A vocoder is an audio effect that lets you impose the dynamics and changing spectral content of one sound (the modulator) onto another (the carrier). The modulator is usually the human voice, speaking or singing, while the carrier is usually a bright synthesizer. [1]
 
 Here we generalize the modulator to any sounds and the carrier to an existing music piece.
 
 ### how it works
 
-+ a piece of music played in loop as carrier (banks/elephant.wav)
++ a piece of music played in loop as carrier (banks/elephant.wav [2])
 + 8 sound tracks extracted from daily videos as 8 modulators (banks/0.wav - 8.wav)  
   You can change 0.wav - 8.wav to your own sound tracks.
 + The carrier is cut to a 8 steps' sequencer.
@@ -86,8 +84,9 @@ Yutian Hu - yutianhu@hotmail.com
 Thanks to the [timbre tools hackathon](https://comma.eecs.qmul.ac.uk/timbre-tools-hackathon/) from where we shape this idea.
 
 ## Reference
-1. The music used is adapted from 'elephant' by Loke Rahbek
-2. 
+[1] https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A%20vocoder%20is%20an%20audio,is%20usually%20a%20bright%20synthesizer
+[2] The music used is adapted from 'elephant' by Loke Rahbek
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
