@@ -83,7 +83,7 @@ Thanks to the [Timbre Tools Hackathon](https://comma.eecs.qmul.ac.uk/timbre-tool
 
 ## Reference
 [1] [Introduction to MIDI and Computer Music](https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A%20vocoder%20is%20an%20audio,is%20usually%20a%20bright%20synthesizer)  
-[2] The music used is adapted from 'elephant' by Loke Rahbek
+[2] The music used in this project is adapted from 'elephant' by Loke Rahbek.
 
 
 
