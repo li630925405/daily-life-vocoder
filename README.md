@@ -42,13 +42,34 @@ This project is a vocoder sequencer that convolves music with any sounds. As it 
     For Android user, you can get it from Google Play : https://play.google.com/store/apps/details?id=com.iglesiaintermedia.mobmuplat
     or download APK directly on its website.
 
-2. Unzip our project into the MobMuPlat folder on your device.
+2. Unzip our project into the MobMuPlat folder on your phone.
 3. Run the app. Click on the file "ConvTimbre.mmp" and you'll be able to run this project!
 
 In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor to design and test our GUI and interaction. Mobmuplat is a standalone iOS+Android app which supports interact with [PureData](https://puredata.info/) patches with a neat graphical use interface and mobile hardware input.
 
 
+## Technical Details
 
+### what it is
+A vocoder is an audio effect that lets you impose the dynamics and changing spectral content of one sound (the modulator) onto another (the carrier). The modulator is usually the human voice, speaking or singing, while the carrier is usually a bright synthesizer.
+
+reference: [https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A vocoder is an audio,is usually a bright synthesizer](https://cecm.indiana.edu/361/rsn-vocoder.html#:~:text=A%20vocoder%20is%20an%20audio,is%20usually%20a%20bright%20synthesizer).
+
+Here we generalize the modulator to any sounds and the carrier to an existing music piece.
+
+### how it works
+
++ a piece of music played in loop as carrier (banks/elephant.wav)
++ 8 sound tracks extracted from daily videos as 8 modulators (banks/0.wav - 8.wav)  
+  You can change 0.wav - 8.wav to your own sound tracks.
++ The carrier is cut to a 8 steps' sequencer.
++ In each step, a modulator is chosen from 8 modulators, and the carrier is convoled with the modulator, so that the carrier’s timbre is changed by different modulators as the sequencer steps.
+
+### how to use
++ tilting the phone left and right changes the playback speed of the music (left slow, right fast)
++ tilting the phone up and down changes the volume of the music (up: loud, down: low)
++ 8 grids at each step — choose which modulator to use at the current step (top: 0, bottom: 7)
++ trigger button at each step — trigger on to enbale vocoder, trigger off to disable vocoder (wihte: trigger on, transparent: trigger off)
 
 <!-- CONTACT -->
 ## Contact
@@ -63,6 +84,10 @@ Yutian Hu - yutianhu@hotmail.com
 ## Acknowledgments
 
 Thanks to the [timbre tools hackathon](https://comma.eecs.qmul.ac.uk/timbre-tools-hackathon/) from where we shape this idea.
+
+## Reference
+1. The music used is adapted from 'elephant' by Loke Rahbek
+2. 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
