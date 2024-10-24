@@ -65,7 +65,7 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 
 ### How to use
 + 8 grids at each step — choose which modulator to use at the current step (top: 0; bottom: 7)
-+ trigger button at each step — trigger on to enbale vocoder, trigger off to disable vocoder (wihte: trigger on; transparent: trigger off)
++ trigger button at each step — trigger on to enbale modulation, trigger off to disable modulation (wihte: trigger on; transparent: trigger off)
 + tilting the phone left and right changes the playback speed of the music (left slow; right fast)
 + tilting the phone up and down changes the volume (up: loud; down: low)
 
