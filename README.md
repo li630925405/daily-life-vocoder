@@ -72,10 +72,8 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 <!-- CONTACT -->
 ## Contact
 
-Yazhou Li - yazhou.li@qmul.ac.uk
-
+Yazhou Li - yazhou.li@qmul.ac.uk  
 Yutian Hu - yutianhu@hotmail.com
-
 
 
 <!-- ACKNOWLEDGMENTS -->
