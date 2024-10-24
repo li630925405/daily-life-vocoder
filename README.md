@@ -61,7 +61,7 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 + 8 sound tracks extracted from daily videos as 8 modulators (banks/0.wav - 8.wav)  
   You can change 0.wav - 8.wav to your own sound tracks.
 + The carrier is cut to an 8 steps' sequencer.
-+ In each step, a modulator is chosen from 8 modulators, and the carrier is convoled with the modulator, so that the carrier’s timbre is changed by different modulators as the sequencer steps.
++ In each step, a modulator is chosen from 8 modulators, and the carrier is convoled with the current modulator. As the sequencer steps, the carrier’s timbre is changed by different modulators.
 
 ### How to use
 + tilting the phone left and right changes the playback speed of the music (left slow; right fast)
