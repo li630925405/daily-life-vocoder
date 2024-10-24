@@ -66,11 +66,11 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 ### How to use
 + 8 grids at each step — choose which modulator to use at the current step (top: 0; bottom: 7)
 
-  <img src="./images/grid.png" alt="image-20241024165613926" style="zoom:40%;" />
+  <img src="./images/grid.png" alt="image-20241024165613926" width="250" />
 
 + trigger button at each step — trigger on to enbale modulation, trigger off to disable modulation (wihte: trigger on; transparent: trigger off)
 
-  <img src="./images/trigger.png" alt="image-20241024171224158" style="zoom:40%;" />
+  <img src="./images/trigger.png" alt="image-20241024171224158" width="250" />
 
 + tilting the phone left and right changes the playback speed of the music (left slow; right fast)
 
