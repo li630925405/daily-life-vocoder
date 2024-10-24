@@ -43,7 +43,7 @@ This project is a vocoder sequencer that convolves music with any sounds. As it 
     or download APK directly on its website.
 
 2. Unzip our project into the MobMuPlat folder on your phone.
-3. Run the app. Click on the file "ConvTimbre.mmp" and you'll be able to run this project!
+3. Run the app. Click the menu button on the top left and choose the file "ConvTimbre.mmp", and you'll be able to run this project!
 
 In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor to design and test our GUI and interaction. Mobmuplat is a standalone iOS+Android app which supports interact with [PureData](https://puredata.info/) patches with a neat graphical use interface and mobile hardware input.
 
