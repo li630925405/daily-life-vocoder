@@ -53,7 +53,7 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 <!-- CONTACT -->
 ## Contact
 
-Yazhou Li - acw629@qmul.ac.uk
+Yazhou Li - yazhou.li@qmul.ac.uk
 
 Yutian Hu - yutianhu@hotmail.com
 
