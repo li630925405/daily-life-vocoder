@@ -50,12 +50,12 @@ In this project we use [Mobmuplat](https://danieliglesia.com/mobmuplat/) Editor 
 
 ## Technical Details
 
-### what it is
+### What it is
 A vocoder is an audio effect that lets you impose the dynamics and changing spectral content of one sound (the modulator) onto another (the carrier). The modulator is usually the human voice, speaking or singing, while the carrier is usually a bright synthesizer. [1]
 
 Here we generalize the modulator to any sounds and the carrier to an existing music piece.
 
-### how it works
+### How it works
 
 + a piece of music played in loop as carrier (banks/elephant.wav [2])
 + 8 sound tracks extracted from daily videos as 8 modulators (banks/0.wav - 8.wav)  
@@ -63,7 +63,7 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 + The carrier is cut to a 8 steps' sequencer.
 + In each step, a modulator is chosen from 8 modulators, and the carrier is convoled with the modulator, so that the carrier’s timbre is changed by different modulators as the sequencer steps.
 
-### how to use
+### How to use
 + tilting the phone left and right changes the playback speed of the music (left slow, right fast)
 + tilting the phone up and down changes the volume of the music (up: loud, down: low)
 + 8 grids at each step — choose which modulator to use at the current step (top: 0, bottom: 7)
