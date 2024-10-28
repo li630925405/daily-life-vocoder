@@ -72,9 +72,9 @@ Here we generalize the modulator to any sounds and the carrier to an existing mu
 
   <img src="./images/trigger.png" alt="image-20241024171224158" width="250" />
 
-+ tilting the phone left and right changes the playback speed of the music (left slow; right fast)
++ tilting the phone up and down changes the playback speed of the music (up: fast; down: slow)
 
-+ tilting the phone up and down changes the volume (up: loud; down: low)
++ tilting the phone left and right changes the volume mix (left: more modulated sound; right: more music blended)
 
 <!-- CONTACT -->
 ## Contact
